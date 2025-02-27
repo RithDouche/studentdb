@@ -1,0 +1,14 @@
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\bin\Release\StudentDb.exe.config
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\bin\Release\StudentDb.exe
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\bin\Release\StudentDb.pdb
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Release\StudentDb.csproj.AssemblyReference.cache
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Release\StudentDb.csproj.CoreCompileInputs.cache
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Release\StudentDb.exe
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Release\StudentDb.pdb
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\bin\Release\StudentDb.exe.config
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\bin\Release\StudentDb.exe
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\bin\Release\StudentDb.pdb
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Release\StudentDb.csproj.AssemblyReference.cache
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Release\StudentDb.csproj.CoreCompileInputs.cache
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Release\StudentDb.exe
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Release\StudentDb.pdb

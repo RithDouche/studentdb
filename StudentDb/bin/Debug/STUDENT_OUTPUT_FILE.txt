@@ -1,0 +1,16 @@
+Alice Amy
+Anderson
+4
+aanderson@uw.edu
+Bob Billy
+Bradshaw
+3.8
+bbradshaw@uw.edu
+Carlos Charlie
+Castaneda
+3.6
+ccastaneda@uw.edu
+David Deacon
+Davis
+3.7
+ddavis@uw.edu

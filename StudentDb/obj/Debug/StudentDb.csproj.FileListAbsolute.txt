@@ -1,0 +1,21 @@
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\bin\Debug\StudentDb.exe.config
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\bin\Debug\StudentDb.exe
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\bin\Debug\StudentDb.pdb
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Debug\StudentDb.csproj.AssemblyReference.cache
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Debug\StudentDb.csproj.CoreCompileInputs.cache
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Debug\StudentDb.exe
+D:\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Debug\StudentDb.pdb
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\bin\Debug\StudentDb.exe.config
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\bin\Debug\StudentDb.exe
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\bin\Debug\StudentDb.pdb
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Debug\StudentDb.csproj.AssemblyReference.cache
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Debug\StudentDb.csproj.CoreCompileInputs.cache
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Debug\StudentDb.exe
+C:\Users\harma\OneDrive - UW\Winter Classes\Prgramming II C#\StudentDb\obj\Debug\StudentDb.pdb
+C:\Users\sieng\OneDrive\Documents\GitHub\New folder\StudentDb\StudentDb\bin\Debug\StudentDb.exe.config
+C:\Users\sieng\OneDrive\Documents\GitHub\New folder\StudentDb\StudentDb\bin\Debug\StudentDb.exe
+C:\Users\sieng\OneDrive\Documents\GitHub\New folder\StudentDb\StudentDb\bin\Debug\StudentDb.pdb
+C:\Users\sieng\OneDrive\Documents\GitHub\New folder\StudentDb\StudentDb\obj\Debug\StudentDb.csproj.AssemblyReference.cache
+C:\Users\sieng\OneDrive\Documents\GitHub\New folder\StudentDb\StudentDb\obj\Debug\StudentDb.csproj.CoreCompileInputs.cache
+C:\Users\sieng\OneDrive\Documents\GitHub\New folder\StudentDb\StudentDb\obj\Debug\StudentDb.exe
+C:\Users\sieng\OneDrive\Documents\GitHub\New folder\StudentDb\StudentDb\obj\Debug\StudentDb.pdb
